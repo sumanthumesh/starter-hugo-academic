@@ -1,6 +1,7 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: N-Way Superscalar RISC-V Core
+# summary: Designed a N-Way superscalar RISC-V core `external_link`.
+summary: Designed a N-Way superscalar RISC-V core as a course project. 
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
