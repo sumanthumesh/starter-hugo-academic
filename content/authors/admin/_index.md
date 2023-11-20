@@ -18,7 +18,7 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Michigan Ann Arbor
+  - name: University of Michigan, Ann Arbor
     url: https://umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,6 @@ bio: My research interests include hardware-software codesign, processing in mem
 
 # Interests to show in About widget
 interests:
-  - HW/SW Codesign
   - Processing in Memory
   - CXL based memory expansion and pooling
 
@@ -34,10 +33,10 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science and Engineering
-      institution: Massachusetts Institute of Technology
+      institution: University of Michigan, Ann Arbor
       year: 2022-Present
     - course: BTech in Electrical Engineering
-      institution: Indian Institute of Technology Jodhpur
+      institution: Indian Institute of Technology, Jodhpur
       year: 2016-2020
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
@@ -80,7 +79,7 @@ email: 'sumanthu0@gmail.com'
 highlight_name: true
 ---
 
-I am a 2nd Year PhD student at the Mbit Lab in the University of Michigan advised by [Dr. Reetuparna Das](https://web.eecs.umich.edu/~reetudas/). My primary research focus is on optimizing the memory architecture for improving the performance of memory bandwidth-bound or latency-bound workloads. My current work involves using Compute Express Link (CXL) for memory expansion and host-accelerator/accelerator-accelerator interfaces.
+I am a 2nd Year PhD student at the M-Bits Research Group advised by [Dr. Reetuparna Das](https://web.eecs.umich.edu/~reetudas/) at University of Michigan. My primary research interest is in optimizing the memory architecture for memory bandwidth-bound or latency-bound workloads. My current work involves using Compute Express Link (CXL) for memory expansion and host-accelerator/accelerator-accelerator interfaces.
 
 Before starting my PhD I was a hardware engineer at NVIDIA and Silicon Labs where I worked on PCIe controller and cryptographic accelerators respectively. I received my Btech in Electrical Engineering from Indian Institute of Technology Jodhpur in 2020.
 {style="text-align: justify;"}

@@ -73,23 +73,28 @@ sections:
           company: NVIDIA
           company_url: 'https://www.nvidia.com/en-us/'
           company_logo: nvidia
-          location: California
+          location: Bangalore
           date_start: '2021-08-01'
           date_end: '2022-07-01'
-          description: |2-
-              Responsibilities include:
-
-              * Microarchitecture and RTL Design for PCIe 6.0
+          description: Microarchitecture and RTL design for PCIe 6.0
         - title: Design Engineer
           company: Silicon Labs
           company_url: 'https://www.silabs.com/about-us/silicon-labs-india'
-          company_logo: org-x
-          location: California
+          company_logo: silabs
+          location: Hyderabad
           date_start: '2020-08-01'
           date_end: '2021-08-31'
           description: Microarchitecture and RTL design for security accelerators (ChaCha20, Poly1305)
-    design:
-      columns: '2'
+        - title: Research Intern
+          company: Bosch
+          company_url: 'https://www.bosch.in/our-company/bosch-in-india/'
+          company_logo: bosch
+          location: Bangalore
+          date_start: '2019-05-01'
+          date_end: '2019-07-31'
+          description: Worked on designing arithemtic units for Posit numbers as an alternative to floating point
+  #   design:
+  #     columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -127,8 +132,8 @@ sections:
   #         organization_url: https://www.datacamp.com
   #         title: 'Object-Oriented Programming in R'
   #         url: ''
-  #   design:
-  #     columns: '2'
+    design:
+      columns: '2'
   # - block: collection
   #   id: posts
   #   content:
@@ -155,7 +160,7 @@ sections:
   #   design:
   #     # Choose a layout view
   #     view: compact
-  #     columns: '2'
+  #     columns: '1'
   - block: portfolio
     id: projects
     content:
@@ -170,13 +175,13 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Deep Learning
+      #     tag: Deep Learning
+      #   - name: Other
+      #     tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
