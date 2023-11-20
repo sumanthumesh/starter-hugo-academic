@@ -50,6 +50,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:sumanthu@umich.edu'
+  - icon: graduation-cap
+    icon_pack: fas
+    link: 'https://scholar.google.com/citations?user=UETnUSAAAAAJ&hl=en'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
