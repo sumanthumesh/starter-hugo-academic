@@ -82,7 +82,7 @@ email: 'sumanthu0@gmail.com'
 highlight_name: true
 ---
 
-I am a 2nd Year PhD student at the M-Bits Research Group advised by [Dr. Reetuparna Das](https://web.eecs.umich.edu/~reetudas/) at University of Michigan. My primary research interest is in optimizing the memory architecture for memory bandwidth-bound or latency-bound workloads. My current work involves using Compute Express Link (CXL) for memory expansion and host-accelerator/accelerator-accelerator interfaces.
+I am a 2nd Year Ph.D. student at the University of Michigan, advised by Dr. [Reetuparna Das](https://web.eecs.umich.edu/~reetudas/). I am interested in optimizing the memory architecture for memory bandwidth-bound or latency-bound workloads. My current work uses Compute Express Link (CXL) for memory expansion and host-accelerator/accelerator-accelerator interfaces.
 
-Before starting my PhD I was a hardware engineer at NVIDIA and Silicon Labs where I worked on PCIe controller and cryptographic accelerators respectively. I received my Btech in Electrical Engineering from Indian Institute of Technology Jodhpur in 2020.
+Before starting my Ph.D., I was a hardware engineer at NVIDIA and Silicon Labs, where I worked on the microarchitecture of PCIe controllers and cryptographic accelerators, respectively.
 {style="text-align: justify;"}

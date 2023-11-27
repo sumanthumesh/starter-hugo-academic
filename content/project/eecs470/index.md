@@ -1,7 +1,7 @@
 ---
 title: N-Way Superscalar RISC-V Core
 # summary: Designed a N-Way superscalar RISC-V core `external_link`.
-summary: Designed a N-Way 2superscalar RISC-V core as part of EECS 470. 
+summary: Supercalar RISC-V core based on MIPS R10K with a multi-ported I-cache with prefetching, branch prediction and non-blocking D-cache with victim cache. Implemented in SystemVerilog for a course project (EECS470)  
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
